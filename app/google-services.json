@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "191384269411",
+    "firebase_url": "https://tarihiyaris.firebaseio.com",
+    "project_id": "tarihiyaris",
+    "storage_bucket": "tarihiyaris.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191384269411:android:c9e272c8eff6893d",
+        "android_client_info": {
+          "package_name": "com.example.karahan.tarihiyaris"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191384269411-b36ku5jnno40rtghkuf9pii1rliofel6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP3b59UyeG6190MARBs1hOYUCXCbED9gQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
